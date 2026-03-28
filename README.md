@@ -1,22 +1,22 @@
 # ZimTransit — Smart Bus Ticketing System (Prototype)
 
-A web-based **digital prototype** for Zimbabwe’s public transport: commuters use **smart travel cards**, **conductors** collect fares on board, **hub agents** register cards and sell tickets at stations, and **administrators** view network analytics. This repository supports coursework submission: it includes **clear setup instructions**, pointers for **SRS alignment**, and placeholders for your **submission links** (video, live app, SRS).
+A web-based **digital prototype** for Zimbabwe’s public transport: commuters use **smart travel cards**, **conductors** collect fares on board, **hub agents** register cards and sell tickets at stations, and **administrators** view network analytics. This repository supports coursework submission: it includes **clear setup instructions**, pointers for **SRS alignment**, and the **submission links** below.
 
 ---
 
-## Submission links (fill in before you submit)
-
-Replace the placeholders below with your real links. Graders must be able to open every link.
+## Submission links
 
 | Item | Link |
 |------|------|
-| **Google Doc** (name: `personNames_[Summative]_[MMDDYYYY]`) | `https://docs.google.com/...` |
-| **Self-recorded video** (5–10 minutes) | Paste in Google Doc |
-| **This GitHub repository** (must be **public**) | `https://github.com/...` |
-| **SRS document** | `https://...` |
-| **Publicly accessible app URL** (deployed demo) | `https://...` |
+| **GitHub repository** (public) | [https://github.com/Paul-202425/ZImTransit](https://github.com/Paul-202425/ZImTransit) |
+| **README on GitHub** | [https://github.com/Paul-202425/ZImTransit/blob/main/README.md](https://github.com/Paul-202425/ZImTransit/blob/main/README.md) |
+| **SRS document** | [Open SRS (Google Doc)](https://docs.google.com/document/d/1M9UvcJ2zxrMLRYsDdIiQJnnSlhJlVQt67pltBzZ0AYs/edit?tab=t.0#heading=h.gjdgxs) |
+| **Google Doc** (summative: `personNames_[Summative]_[MMDDYYYY]`) | Add your doc link here when ready — paste **video** + **repo** + **SRS** + **live app** per course instructions |
+| **Self-recorded video** (5–10 minutes) | Paste the link inside your Google Doc |
+| **Local app (development only)** | [http://localhost:3000/](http://localhost:3000/) — use after `npm run dev` on your machine |
+| **Publicly accessible app URL** (for grading) | **Add after deployment** — e.g. Vercel/Netlify (see [§12](#12-public-url-deployment--coursework-requirement)). `localhost` only works on **your** computer and is **not** reachable from the internet, so it does **not** satisfy the “public URL” requirement by itself. |
 
-> **Important:** Set sharing on the Google Doc and SRS so “anyone with the link” can view. Broken links may receive **0** for link-related criteria.
+> **Important:** Set sharing on the **Google Doc** and **SRS** so anyone with the link can **view**. Broken or permission-locked links may receive **0** for link-related criteria. Replace “Add your doc link here” with your real Google Doc URL before Canvas submission.
 
 ---
 
@@ -115,11 +115,9 @@ Optional: **Bun** is listed as `packageManager` in `package.json`; **npm** is su
 - Clone your **public** GitHub repository, **or** unzip the project folder.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Paul-202425/ZImTransit.git
+cd ZImTransit
 ```
-
-(Use your real repository URL.)
 
 ### Step 2 — Install dependencies
 
