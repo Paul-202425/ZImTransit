@@ -11,12 +11,12 @@ A web-based **digital prototype** for Zimbabwe’s public transport: commuters u
 | **GitHub repository** (public) | [https://github.com/Paul-202425/ZImTransit](https://github.com/Paul-202425/ZImTransit) |
 | **README on GitHub** | [https://github.com/Paul-202425/ZImTransit/blob/main/README.md](https://github.com/Paul-202425/ZImTransit/blob/main/README.md) |
 | **SRS document** | [Open SRS (Google Doc)](https://docs.google.com/document/d/1M9UvcJ2zxrMLRYsDdIiQJnnSlhJlVQt67pltBzZ0AYs/edit?tab=t.0#heading=h.gjdgxs) |
-| **Google Doc** (summative: `personNames_[Summative]_[MMDDYYYY]`) | Add your doc link here when ready — paste **video** + **repo** + **SRS** + **live app** per course instructions |
-| **Self-recorded video** (5–10 minutes) | Paste the link inside your Google Doc |
+| **Google Doc** (summative: `PaulMasamvu_[Summative]_[03/29/2026]`) | [Open summative Google Doc](https://docs.google.com/document/d/1JKJIv2ixVR82bTEWlAR2xLgBnmD86Wd9gGy2h91q7XQ/edit?usp=sharing) — paste **video**, **repo**, **SRS**, and **live app** links here per course instructions |
+| **Self-recorded video** (5–10 minutes) | [Watch on YouTube](https://youtu.be/xlko26RZ-hM) — also link this in your [summative Google Doc](https://docs.google.com/document/d/1JKJIv2ixVR82bTEWlAR2xLgBnmD86Wd9gGy2h91q7XQ/edit?usp=sharing) per course instructions |
 | **Local app (development only)** | [http://localhost:3000/](http://localhost:3000/) — use after `npm run dev` on your machine |
 | **Publicly accessible app URL** (for grading) | **Add after deployment** — e.g. Vercel/Netlify (see [§12](#12-public-url-deployment--coursework-requirement)). `localhost` only works on **your** computer and is **not** reachable from the internet, so it does **not** satisfy the “public URL” requirement by itself. |
 
-> **Important:** Set sharing on the **Google Doc** and **SRS** so anyone with the link can **view**. Broken or permission-locked links may receive **0** for link-related criteria. Replace “Add your doc link here” with your real Google Doc URL before Canvas submission.
+> **Important:** Set sharing on the **Google Doc** and **SRS** so anyone with the link can **view**. Broken or permission-locked links may receive **0** for link-related criteria.
 
 ---
 
